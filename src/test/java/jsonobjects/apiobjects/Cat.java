@@ -17,4 +17,7 @@ public class Cat {
     private String name;
     @JsonDeserialize(as = ArrayList.class)
     private List<String> cats;
+
+    // STASH CHANGES added
+    // STASH CHANGES added
 }
