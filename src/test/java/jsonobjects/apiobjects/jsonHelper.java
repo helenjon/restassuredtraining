@@ -1,5 +1,7 @@
 package jsonobjects.apiobjects;
 
+import jsonobjects.apiobjects.AddPlace;
+import jsonobjects.apiobjects.Cat;
 import com.fasterxml.jackson.core.JsonProcessingException;
 import com.fasterxml.jackson.databind.ObjectMapper;
 

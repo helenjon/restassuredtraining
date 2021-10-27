@@ -23,6 +23,6 @@ public class test {
                 .body(json)
                 .when().post("/maps/api/place/add/json")
                 .then().assertThat().statusCode(200).extract().response();
-
+        System.out.println(res.asString());
     }
 }
