@@ -7,7 +7,7 @@ import java.io.IOException;
 
 import static io.restassured.RestAssured.given;
 
-public class test {
+public class Test {
 
     private static final String CAT_PATH = "src/test/resources/cat.json";
     private static final String addPlace_PATH = "src/test/resources/addPlace.json";
