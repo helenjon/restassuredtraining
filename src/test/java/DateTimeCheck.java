@@ -57,5 +57,4 @@ public class DateTimeCheck {
         return previousDate.before(nextDate);
     }
 
-
 }

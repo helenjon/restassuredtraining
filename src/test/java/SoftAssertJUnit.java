@@ -4,7 +4,7 @@ import org.junit.jupiter.api.Test;
 import java.util.ArrayList;
 import java.util.List;
 
-public class softAssertJUnit {
+public class SoftAssertJUnit {
 
     @Test
     public void test001() {
